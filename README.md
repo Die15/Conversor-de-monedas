@@ -4,6 +4,6 @@ Este es un conversor de monedas desarrollado como desafío a fin de aplicar, afi
 
 
 Herramientas y Tecnologías
-Lenguaje: Java.
-IDE: Eclipse.
+Lenguaje: Java,
+IDE: Eclipse,
 GUI: Java Swing.
