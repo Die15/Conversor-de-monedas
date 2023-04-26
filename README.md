@@ -7,5 +7,5 @@ This is a currency converter developed as a challenge to apply, assert and demon
 
 Tools and Technologies.<br>
 Language: Java.<br>
-IDE: Eclipse<br>
-GUI: Java Swing
+IDE: Eclipse.<br>
+GUI: Java Swing.
